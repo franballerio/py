@@ -1,0 +1,40 @@
+Los Nombres y Apellidos son:
+
+Nombre: Carlos
+Apellido: Peres
+-----
+Nombre: Raul
+Apellido: Perez
+-----
+Nombre: Saul
+Apellido: caman
+-----
+Nombre: Marco
+Apellido: Laurens
+-----
+Nombre: Carla
+Apellido: Migueletes
+-----
+Nombre: Pedro
+Apellido: Gonzales
+-----
+Los Nombres y Apellidos son:
+
+Nombre: Carlos
+Apellido: Peres
+-----
+Nombre: Raul
+Apellido: Perez
+-----
+Nombre: Saul
+Apellido: caman
+-----
+Nombre: Marco
+Apellido: Laurens
+-----
+Nombre: Carla
+Apellido: Migueletes
+-----
+Nombre: Pedro
+Apellido: Gonzales
+-----
